@@ -1,8 +1,8 @@
 # Hi there, I'm Ronald Nayhit Parra Tabet! 👋
-### **Junior Full Stack & Game Developer | ADSO Apprentice at SENA**
+### **Junior Full Stack & Game Developer | SAD Apprentice at SENA**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-12100E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tu-usuario)
+[![Portfolio](https://img.shields.io/badge/Portfolio-12100E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rumblow?tab=repositories)
 [![EF SET English C1](https://img.shields.io/badge/EF_SET_English-C1_Advanced-green?style=for-the-badge&logo=googletranslate&logoColor=white)](https://www.efset.org/)
 
 <p align="center">
