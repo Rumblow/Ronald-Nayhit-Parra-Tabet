@@ -5,6 +5,11 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-12100E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tu-usuario)
 [![EF SET English C1](https://img.shields.io/badge/EF_SET_English-C1_Advanced-green?style=for-the-badge&logo=googletranslate&logoColor=white)](https://www.efset.org/)
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7C83FD&center=true&vCenter=true&width=650&lines=SAD+Student+%26+Plastic+Artist" alt="Presentación animada" />
+</p>
+
+
 ---
 
 ## 💡 About Me
