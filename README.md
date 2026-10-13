@@ -70,14 +70,14 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radial" alt="Ronald's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=radial" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rumblow&show_icons=true&theme=radial" alt="Ronald's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rumblow&layout=compact&theme=radial" alt="Top Languages" width="48%" />
 </p>
 
 ---
 
 ## 📬 Contact & Socials
 
-- 📧 **Email:** [tu.correo@ejemplo.com](mailto:tu.correo@ejemplo.com)
+- 📧 **Email:** [ronaldparra226@gmail.com](mailto:tu.correo@ejemplo.com)
 - 📍 **Location:** Medellín, Antioquia, Colombia
-- 💼 **LinkedIn:** [linkedin.com/in/tu-perfil](https://linkedin.com)
+- 💼 **LinkedIn:** [--](https://linkedin.com)
