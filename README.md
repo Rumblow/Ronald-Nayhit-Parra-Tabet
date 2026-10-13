@@ -74,10 +74,11 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rumblow&show_icons=true&theme=radial" alt="Ronald's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rumblow&layout=compact&theme=radial" alt="Top Languages" width="48%" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Rumblow&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&locale=es" alt="Estadísticas de GitHub" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rumblow&layout=compact&theme=tokyonight&hide_border=true&locale=es" alt="Lenguajes más utilizados" height="180"/>
 </p>
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rumblow&theme=tokyonight&hide_border=true&locale=es" alt="Racha de contribuciones de GitHub"/> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=TU_USUARIO&style=for-the-badge&color=blueviolet" alt="Visitas al perfil"/> </p>
 
 ---
 
