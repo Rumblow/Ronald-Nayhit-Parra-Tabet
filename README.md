@@ -3,10 +3,11 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-12100E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rumblow?tab=repositories)
+[![Pinterest](https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white)](https://pin.it/14WN40aCu)
 [![EF SET English C1](https://img.shields.io/badge/EF_SET_English-C1_Advanced-green?style=for-the-badge&logo=googletranslate&logoColor=white)](https://www.efset.org/)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7C83FD&center=true&vCenter=true&width=650&lines=ADSO+Apprentice+%7C+Full+Stack+%26+Game+Dev+%7C+Plastic+Artist" alt="Presentación animada" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=7C83FD&center=true&vCenter=true&width=750&lines=ADSO+Apprentice+%7C+Full+Stack+%26+Game+Dev+%7C+Plastic+Artist" alt="Presentación animada" />
 </p>
 
 ---
@@ -96,5 +97,6 @@
 ## 📬 Contact & Socials
 
 - 📧 **Email:** [ronaldparra226@gmail.com](mailto:ronaldparra226@gmail.com)
+- 📌 **Pinterest:** [Perfil de Pinterest](https://pin.it/14WN40aCu)
 - 📍 **Location:** Medellín, Antioquia, Colombia
 - 💼 **GitHub:** [Rumblow](https://github.com/Rumblow)
